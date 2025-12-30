@@ -7,23 +7,23 @@ Press F3.
 Enter your first X and Z coordinates into the triangulator.  
 Then use an ender eye and make sure to place your crosshair on where its going.  
 Now enter the yaw into the triangulator.  
-![Step 1](Pics/1.png)
+![Step 1 image here](Pics/1.png)
 
 ## Step 2.
 Walk 200-500 blocks to the left or right (NOT TOWARDS THE EYE).  
 Now enter your second X and Z coordinates into the triangulator.  
 Now throw the ender eye again and enter the yaw into the triangulator.  
 
-![Step 2](Pics/2.png)
+![Step 2 image here](Pics/2.png)
 
 ## Step 3.
 If you did everything right, it should look similar to this screenshot.  
 
-![Step 3](Pics/3.png)
+![Step 3 image here](Pics/3.png)
 
 ## Result.
 
-![Step 4](Pics/4.png)
+![Result image here](Pics/4.png)
 
 ### Note:
 

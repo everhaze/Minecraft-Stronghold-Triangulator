@@ -1,31 +1,31 @@
 # Minecraft-Stronghold-Triangulator
 Easily find the coordinates of the stronghold in <5min with 1-2 ender eyes.
 
-Guide
-Step 1.
+# Guide
+## Step 1.
 Press F3
 Enter your first X and Z coordinates into the triangulator.
 Then use an ender eye and make sure to place your crosshair on where its going.
 Now enter the yaw into the triangulator.
 ![Step 1](Pics/1.png)
 
-Step 2.
+## Step 2.
 Walk 200-500 blocks to the left or right (NOT TOWARDS THE EYE).
 Now enter your second X and Z coordinates into the triangulator.
 Now throw the ender eye again and enter the yaw into the triangulator.
 
 ![Step 2](Pics/2.png)
 
-Step 3.
+## Step 3.
 If you did everything right, it should look similar to this screenshot.
 
 ![Step 3](Pics/3.png)
 
-Result.
+## Result.
 
 ![Step 4](Pics/4.png)
 
-Note:
+### Note:
 
 Strongholds cannot spawn further than 24.320 blocks away from 0.
 The further you go, the more inaccurate it will become.

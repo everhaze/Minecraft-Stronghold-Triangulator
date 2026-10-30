@@ -34,3 +34,5 @@ Also, it is not recommended to go further than 500 blocks away from the first pa
 If you are very close to 0 0 or AT 0 0, you can even walk 100 blocks away from the first pair of coordinates. This was tested in Java 1.21.10 and works.  
 
 The further you're away from 0, the further you'll have to move from the first pair of coords.
+
+*This was my first rust project*
